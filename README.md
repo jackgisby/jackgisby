@@ -2,7 +2,7 @@
 
 I'm Jack Gisby - a PhD candidate using big -omics 🧬 datasets to understand biology. 
 
-See some of my recent projects below. 
+See some of my recent projects below:
 
 <!--
 **jackgisby/jackgisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
