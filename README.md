@@ -2,5 +2,4 @@
 
 I'm Jack Gisby - a PhD candidate using big -omics 🧬 datasets to understand biology. 
 
-![](https://raw.githubusercontent.com/jackgisby/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/jackgisby/github-stats-transparent/output/generated/languages.svg)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jackgisby&layout=compact">
