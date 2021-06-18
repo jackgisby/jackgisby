@@ -1,6 +1,6 @@
-## Welcome 👋 
+### Welcome 👋 
 
-### I'm Jack Gisby - a PhD candidate using big -omics 🧪🧬 datasets to understand biology. 
+#### I'm Jack Gisby - a PhD candidate using big -omics 🧪🧬 datasets to understand biology. 
 
 - :toolbox: Using `.R`, `.py`, `.sqlite` and `.sh` to analyse data and build tools
 - 🌱 Currently learning Julia and Nextflow
