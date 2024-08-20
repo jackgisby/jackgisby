@@ -1,8 +1,3 @@
-### About :grey_question:
------
-
-Information about me...
-
 ### Recent projects :open_file_folder:
 -----
 <details>
@@ -37,6 +32,7 @@ Information about me...
 
 <details>
   <summary>Other :page_with_curl:</summary>
+
   * Transport data processing
 </details>
 
