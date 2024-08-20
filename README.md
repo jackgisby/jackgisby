@@ -15,26 +15,27 @@
 <details>
   <summary>Academic publications :mortar_board:</summary>
 
-  * Mining high-dimensional biological datasets to understand the response to COVID-19
-  * Predicting critical illness in COVID-19 patients: Applied lasso regression to predict patients that will develop
-    , survival analysis and linear mixed models to i
-  * Modelling the temporal profiles of proteins in COVID-19
-  * Trauma: applying dimensionality reduction and supervised learning to understand key outcomes
+  | Description | Links |
+  | ----------- | ----- |
+  | Mining high-dimensional biological datasets to understand the response to COVID-19 | [Nature Comms](https://www.nature.com/articles/s41467-022-35454-4) |
+  | Predicting critical illness for COVID-19 patients | [Nature Comms](https://www.nature.com/articles/s41467-024-44986-w) |
+  | Modelling the temporal profiles of proteins during COVID-19 | [eLife](https://elifesciences.org/articles/64827) |
+  <!-- To add: trauma -->
 
 </details>
 
 <details>
-  <summary>Notebooks :books:</summary>
+  <summary>Mini projects and notebooks :books:</summary>
 
+  | Description | Links |
+  | ----------- | ----- |
+  | Processing TFL data for bike usage with Google Cloud Platform | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/tfl-bikes-data-pipeline) |
+
+  <!-- To add:
   * Bikes time series
-  * Trauma expression
+  * Trauma expression -->
 </details>
 
-<details>
-  <summary>Other :page_with_curl:</summary>
-
-  * Transport data processing
-</details>
 
 ### Stats :bar_chart:
 -----
