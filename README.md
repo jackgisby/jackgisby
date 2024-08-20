@@ -1,12 +1,12 @@
-### About 
+### About :grey_question:
 -----
 
 Information about me...
 
-### Projects
+### Recent projects :open_file_folder:
 -----
 <details>
-  <summary>Software packages</summary>
+  <summary>Software packages :computer:</summary>
 
   | Package  | Description |
   | -------- | ----------- |
@@ -17,7 +17,7 @@ Information about me...
 </details>
 
 <details>
-  <summary>Academic publications</summary>
+  <summary>Academic publications :mortar_board:</summary>
 
   * Mining high-dimensional biological datasets to understand the response to COVID-19
   * Predicting critical illness in COVID-19 patients: Applied lasso regression to predict patients that will develop
@@ -27,8 +27,6 @@ Information about me...
 
 </details>
 
-
-
 <details>
   <summary>Notebooks :books:</summary>
 
@@ -37,11 +35,11 @@ Information about me...
 </details>
 
 <details>
-  <summary>Other</summary>
+  <summary>Other :page_with_curl:</summary>
   * Transport data processing
 </details>
 
-### Stats
+### Stats :bar_chart:
 -----
 
 <div align="center">
