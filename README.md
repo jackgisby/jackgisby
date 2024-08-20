@@ -12,8 +12,7 @@ Information about me...
   | -------- | ----------- | ----- |
   | **ReducedExperiment**  | An R package that implements classes for applying and manipulating the results of dimensionality reduction | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/ReducedExperiment) |
   | **DeepMet** | A command line application written in Python for training and applying deep one-class models to molecular data | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/DeepMet) |
-  | **packFinder**    | An R package for detecting a special type of transposon (genetic material that can move around and replicate itself) in genome sequence data | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/packFinder) ![Bioconductor](https://img.shields.io/badge/-bioconductor-green?style=for-the-badge&logoColor=%230e9558&link=https%3A%2F%2Fgithub.com%2Fjackgisby%2FpackFinder) |
-
+  | **packFinder**    | An R package for detecting a special type of transposon (genetic material that can move around and replicate itself) in genome sequence data | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/packFinder) [![Bioconductor](https://img.shields.io/badge/-bioconductor-green?style=for-the-badge&logoColor=%230e9558)](https://bioconductor.org/packages/release/bioc/html/packFinder.html) |
 
 
 </details>
