@@ -1,5 +1,10 @@
-### Welcome 👋 
+# About 
 
-[![Gmail Badge](https://img.shields.io/badge/-jackgisby@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackgisby@gmail.com)](mailto:jackgisby@gmail.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jack_gisby?style=flat-square)](https://twitter.com/intent/follow?screen_name=jack_gisby)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-gisby-685407158/)](https://www.linkedin.com/in/jack-gisby-685407158/)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackgisby&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackgisby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
