@@ -29,7 +29,7 @@
 
   | Description | Links |
   | ----------- | ----- |
-  | Processing TFL data for bike usage with Google Cloud Platform | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/tfl-bikes-data-pipeline) |
+  | Processing TfL data for bike usage with Google Cloud Platform | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/tfl-bikes-data-pipeline) |
 
   <!-- To add:
   * Bikes time series
