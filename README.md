@@ -30,7 +30,7 @@ Information about me...
 
 
 <details>
-  <summary>Notebooks</summary>
+  <summary>Notebooks :books:</summary>
 
   * Bikes time series
   * Trauma expression
