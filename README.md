@@ -30,9 +30,8 @@
   | Description | Links |
   | ----------- | ----- |
   | Processing TfL data for bike usage with Google Cloud Platform | [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/tfl-bikes-data-pipeline) |
-
+  | A comparison of time series forecasting methods | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/jackgisby/rohlik-orders-model-comparison-lightgbm-lstm) [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackgisby/mini_projects/blob/main/rohlik_orders_forecasting/rohlik_orders_notebook.ipynb) |
   <!-- To add:
-  * Bikes time series
   * Trauma expression -->
 </details>
 
